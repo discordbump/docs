@@ -53,12 +53,12 @@ const config = {
       hideOnScroll: true,
       items: [
         {
-          href: 'https://discord.com/api/oauth2/authorize?client_id=999132132754600016&permissions=1497736146166&scope=bot%20applications.commands&redirect_uri=https://servermanagerbot.ml/docs&response_type=code',
+          href: 'https://discordapp.com/api/oauth2/authorize?client_id=699101991372193813&permissions=388289&scope=bot',
           position: 'right',
           label: 'Invite',
         },
         {
-          href: 'https://discord.gg/6bCKvP24kb',
+          href: 'https://discord.gg/nEesaZGqPc',
           position: 'right',
           label: 'Support',
         },
@@ -77,7 +77,7 @@ const config = {
           items: [
             {
               label: "Support",
-              href: "https://discord.gg/6bCKvP24kb"
+              href: "https://discord.gg/nEesaZGqPc"
             },
             {
               label: "Terms of Service",
