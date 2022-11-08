@@ -18,7 +18,7 @@ const DefaultLayout: React.FC<DefaultLayoutProps> = ({ title, description, child
                 <meta name="description" content={ description } />
                 <meta property="og:description" content="Corrupt Bump is a fast and simple to use discord bump bot that bumps/advertise your servers directly to different servers." />
                 <meta property="og:title" content="Corrupt Bump" />
-                <meta property="og:image" content="https://imgur.com/BHyNRD2.png"/>
+                <meta property="og:image" content="https://imgur.com/j655hwH.png"/>
                 <meta name="twitter:card" content="summary_large_image"/>
                 <meta name="theme-color" content="#7FD858" />
             </Head>

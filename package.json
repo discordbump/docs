@@ -25,6 +25,10 @@
     "format": "remark docs/*.mdx docs/**/*.mdx docs/**/**/*.mdx docs/**/**/**/*.mdx --quiet -o"
   },
   "dependencies": {
+    "@discord-message-components/core": "^0.2.1",
+    "@discord-message-components/markdown": "^0.2.0",
+    "@discord-message-components/react": "^0.2.1",
+    "@discordapp/twemoji": "^14.0.2",
     "@docusaurus/core": "^2.1.0",
     "@docusaurus/plugin-client-redirects": "^2.1.0",
     "@docusaurus/preset-classic": "^2.1.0",

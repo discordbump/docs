@@ -17,14 +17,14 @@ const config = {
   trailingSlash: false,
   deploymentBranch:"main",
   organizationName: "SBLPBots", // Usually your GitHub org/user name.
-  projectName: "sblpdocs", // Usually your repo name.
+  projectName: "docs", // Usually your repo name.
   plugins: ["docusaurus-plugin-sass"],
   presets: [ 
     [
       "classic",
       {
         docs: {
-          editUrl: "https://github.com/SBLPBots/sblpdocs/tree/main",
+          editUrl: "https://github.com/SBLPBots/docs/tree/main",
           routeBasePath: "/",
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
@@ -93,8 +93,8 @@ const config = {
         title: "Other",
         items: [
           {
-            label: "GitHub",
-            href: "https://github.com/SBLPBots/sblpdocs"
+            label: "Premium",
+            href: "/premium"
           },
           {
             label: "Roadmap",
