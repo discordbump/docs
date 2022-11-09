@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-description: Terms of Use for Server Manager (2022-present)
+description: Terms of Use for Corrupt Bump (2022-present)
 sidebar_position: 4
 ---
 
