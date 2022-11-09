@@ -25,10 +25,10 @@ sidebar_position: 4
 
 **7.** If you have violated the Terms of Service and have purchased a premium plan, you shall be blacklisted from our system with **no refund given**.
 
-**8.** **Whilst we take every possible precaution to ensure the bot is exploit proof**, the development team won't be held responsible for any damages done to your server. Any exploits or bugs should be reported to the support team in the [support server](https://discord.gg/6bCKvP24kb) immediately.
+**8.** **Whilst we take every possible precaution to ensure the bot is exploit proof**, the development team won't be held responsible for any damages done to your server. Any exploits or bugs should be reported to the support team in the [support server](https://discord.gg/nEesaZGqPc) immediately.
 
 **9.** Don't use our bot in malicious situations nor in servers that break [Discord's Terms of Service](https://discord.com/terms) or [Discord's Community Guidelines](https://discord.com/guidelines). **This will result in a blacklist**.
 
 --- 
 
-❓ **Have any questions? Join [our support server](https://servermanagerbot.ml/support)**.
+❓ **Have any questions? Join [our support server](https://discordone.tk/support)**.

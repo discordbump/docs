@@ -5,7 +5,7 @@ description: Having trouble with Server Manager?
 
 ## ___ command is not working
 
-If a command is not working you need to join [our support server](../support) and see if our dev has posted anything or DM the Support bot and let them know!
+If a command is not working you need to join [our support server](https://discord.gg/nEesaZGqPc) and see if our dev has posted anything or DM the Support bot and let them know!
 
 ### Missing Permissions
 This should be self explanatory as it's a very common error, the bot is missing permissions to execute a command. Most of our commands need you to use the prems that are already added when you add the bot. If a command doesn't work and is asking the bot for permissions it has then it is either the `@everyone` role or it means that a permisson did not work! (Best case is that you should just add the `Server Admin` permission)

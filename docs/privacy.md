@@ -10,7 +10,7 @@ This page is used to inform visitors regarding our policies with the collection,
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible in [Corrupt Bump](invite.html) unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible in [Corrupt Bump](https://discordapp.com/api/oauth2/authorize?client_id=699101991372193813&permissions=388289&scope=bot) unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
 
@@ -40,4 +40,4 @@ This policy **may** get updated from time to time. With this being said, you are
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us in [our support server](/support.html).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us in [our support server](https://discord.gg/nEesaZGqPc).
