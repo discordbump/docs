@@ -10,7 +10,7 @@ const config = {
   tagline:
     "Imagine a simple customizable multipurpose bot",
   url: "https://discordone.tk",
-  baseUrl: "/",
+  baseUrl: "/docs/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
