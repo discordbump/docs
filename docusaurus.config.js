@@ -6,11 +6,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/vsDark");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Corrupt Bump",
+  title: "Vertex Bump",
   tagline:
     "Imagine a simple customizable multipurpose bot",
   url: "https://discordone.tk",
-  baseUrl: "/",
+  baseUrl: "/docs/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -25,7 +25,7 @@ const config = {
       {
         docs: {
           editUrl: "https://github.com/SBLPBots/docs/tree/main",
-          routeBasePath: "/",
+          routeBasePath: "/docs/",
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
         },
@@ -49,7 +49,7 @@ const config = {
       disableSwitch: true,
     },
     navbar: {
-      title: "Corrupt Bump",
+      title: "Vertex Bump",
       hideOnScroll: true,
       items: [
         {
@@ -73,7 +73,7 @@ const config = {
       style: "dark",
       links: [
         {
-          title: "Corrupt Bump",
+          title: "Vertex Bump",
           items: [
             {
               label: "Support",
