@@ -10,7 +10,7 @@ const config = {
   tagline:
     "Imagine a simple customizable multipurpose bot",
   url: "https://discordone.tk",
-  baseUrl: "/docs/",
+  baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -25,7 +25,7 @@ const config = {
       {
         docs: {
           editUrl: "https://github.com/SBLPBots/docs/tree/main",
-          routeBasePath: "/docs/",
+          routeBasePath: "/",
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
         },
