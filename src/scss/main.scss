@@ -16,9 +16,9 @@
   color-scheme: dark;
   @include sentro.token-config(
     $blurple: (
-      'light': #A8E34C,
-      'default': #7FD858,
-      'dark': #519E28,
+      'light': #ff8c7d,
+      'default': #FB6855,
+      'dark': #ff3c23,
       'ink': #fff
     ),
     $surface: (
@@ -69,7 +69,7 @@
       'font-headline': (Ginto Nord, Ginto, "Helvetica Neue", Helvetica, Arial, sans-serif)
     )
   );
-  --ifm-color-primary: #7FD858;
+  --ifm-color-primary: #FB6855;
   --ifm-color-primary-dark: #3949f0;
   --ifm-color-primary-darker: #2a3bee;
   --ifm-color-primary-darkest: #1121d6;
@@ -176,20 +176,20 @@ body {
 }
 
 mention {
-  background: #7FD858;
+  background: #FB6855;
   padding-left: 3px;
   padding-right: 3px;
   border-radius: 4px;
   transition: all 0.25s ease;
   &:hover {
-    background:#509D27;
-    color: #7FD858;
+    background:#ff4b34;
+    color: #FB6855;
   }
 }
 
 hr {
   height: 1.20px;
-  background-color: #509D27;
+  background-color: #b13b2b;
 }
 
 .image {
@@ -198,7 +198,7 @@ hr {
 }
 
 .avatar__name {
-  color: #7FD858;
+  color: #FB6855;
 }
 
 .user_box {

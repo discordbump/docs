@@ -4,13 +4,13 @@ description: Privacy Policy
 sidebar_position: 5
 ---
 
-Our development team built the Corrupt Bump [Discord](https://discord.com) bot application as a **free** service. This SERVICE is provided by the our development team at no cost and is intended for use as is.
+Our development team built the Vertex Bump [Discord](https://discord.com) bot application as a **free** service. This SERVICE is provided by the our development team at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible in [Corrupt Bump](https://discordapp.com/api/oauth2/authorize?client_id=699101991372193813&permissions=388289&scope=bot) unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible in [Vertex Bump](https://discordapp.com/api/oauth2/authorize?client_id=699101991372193813&permissions=388289&scope=bot) unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
 

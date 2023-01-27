@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: Welcome to the Corrupt Bump docs!
+description: Welcome to the Vertex Bump docs!
 sidebar_position: 1
 ---
 import Button from '../src/components/Button';
@@ -18,18 +18,18 @@ import {
 import "discord-message-components/packages/react/dist/style.css";
 import DiscordComponent, { defaultOptions } from "../src/components/DiscordComponent";
 
-Our devs strive to bring new features to Corrupt Bump almost everyday! These new features are stable, customizable, and reliable. Server owners can customize these features with easy-to-use bump setup command.
+Our devs strive to bring new features to Vertex Bump almost everyday! These new features are stable, customizable, and reliable. Server owners can customize these features with easy-to-use bump setup command.
 
 ## Features
 
 ### Bumping
-We believe most servers rely on a bump bots to grow! Corrupt Bump is one of the best discord bump bots that you can ever ask for!
+We believe most servers rely on a bump bots to grow! Vertex Bump is one of the best discord bump bots that you can ever ask for!
 
 <DiscordComponent>
     <div slot="message">
-      <DiscordMessage profile="jonfirexbox" command> <DiscordMention>Corrupt Bump</DiscordMention> bump</DiscordMessage>
+      <DiscordMessage profile="jonfirexbox" command> <DiscordMention>Vertex Bump</DiscordMention> bump</DiscordMessage>
     </div>
-  <DiscordMessage profile="corruptbump">
+  <DiscordMessage profile="Vertexbump">
     <DiscordEmbed authorName="✅ Success" borderColor="#7FD858">
     Your server has been successfully bumped.
       <DiscordEmbedFields slot="fields">
@@ -39,7 +39,7 @@ We believe most servers rely on a bump bots to grow! Corrupt Bump is one of the 
         <DiscordEmbedField fieldTitle="🕑 Next Bump:">
           <strong>You can bump again in 1 hour.</strong>
         </DiscordEmbedField>
-      <span slot="footer">Do you want to be reminded when you can bump again? React with ⏰ to this message and Corrupt Bump will let you know once the cooldown is over.</span>
+      <span slot="footer">Do you want to be reminded when you can bump again? React with ⏰ to this message and Vertex Bump will let you know once the cooldown is over.</span>
       </DiscordEmbedFields>
     </DiscordEmbed>
 		<template reactions>

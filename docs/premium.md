@@ -8,7 +8,7 @@ import Admonition from '@theme/Admonition';
 
 Want to make your bump message look amazing? Well get some premium!
 
-## Premium Wumpus
+## Basic Wumpus | $1.00
 With this we have no phisical way for people to earn this (Ex: Donateing or paying us) you must either win a premium giveaways in our [support server](https://discord.gg/nEesaZGqPc). (We may setup a patreon or something like that sooner or later)
 
 ### Perks
@@ -16,17 +16,20 @@ With this we have no phisical way for people to earn this (Ex: Donateing or payi
   - Access to **premium** features
   - The `Premium Advertiser` role in the [support server](https://discord.gg/nEesaZGqPc)
 
-
-## Alliance Wumpus
-To get this premium you must join our [support server](https://discord.gg/nEesaZGqPc)'s alliance Go to the channel called <code>📓┆join-alliance</code> for more info
+## Super Wumpus | $3.00
+Its thje same thing as above, with this we have no phisical way for people to earn this (Ex: Donateing or paying us) you must either win a premium giveaways in our [support server](https://discord.gg/nEesaZGqPc). (We may setup a patreon or something like that sooner or later)
 
 ### Perks
-  - Everything in the previous tier
-  - More may be added
+  - Everything above
+  - Add color to your bump embed
 
 
-## Booster Wumpus
-To get this premium you must boost our [support server](https://discord.gg/nEesaZGqPc) and you should get a message from <mention>@Corrupt Bump</mention> saying that it received your boost!
+## Nitro Wumpus | $5.00
+To get this premium you must boost our [support server](https://discord.gg/nEesaZGqPc) and you should get a message from <mention>@Vertex Bump</mention> saying that it received your boost!
+
+### Perks
+  - Everything above
+  - Add a Banner to your bump embed
 
 <details className="customdetails">
 <summary>✨ Claiming</summary>
@@ -42,7 +45,7 @@ The only way you need to claim is if you win premium from a giveaway. Everything
 
 **2.** Send us a screenshot of you winning the giveaway
 
-**3.** Once our dev sees the message you will be granted the premium and can check your balance by doing <code>@Corrupt Bump#2014 premium</code>
+**3.** Once our dev sees the message you will be granted the premium and can check your balance by doing <code>@Vertex Bump#2014 premium</code>
 
 <h2>I didn't get my perks</h2>
 

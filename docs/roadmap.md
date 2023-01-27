@@ -1,6 +1,6 @@
 ---
 title: Roadmap
-description: Corrupt Bump's road map for the future
+description: Vertex Bump's road map for the future
 ---
 import Button from '../src/components/Button';
 
@@ -9,8 +9,8 @@ import Button from '../src/components/Button';
   Completed
   </div>
   <li>Fixed all problems</li>
-  <li>Removed Captcha (Not Working)</li>
-  <li>Switched to <code>@Corrupt Bump#0281</code> prefix</li>
+  <li>Added back Captchas</li>
+  <li>Switched to <code>@Vertex Bump#0281</code> prefix</li>
   <li>Fixed up voting cooldown timer for bumps (20 min)</li>
 </div>
 <br/>
