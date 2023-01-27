@@ -18,10 +18,10 @@ sidebar_position: 4
 
 **6.** If you have violated the Terms of Service and have premium (From a giveaway, boosting, ext), you shall be blacklisted from our bot.
 
-**7.** **Whilst we take every possible precaution to ensure the bot is exploit proof**, the development team won't be held responsible for any damages done to your server. Any exploits or bugs should be reported to the support team in the [support server](https://discord.gg/nEesaZGqPc) immediately.
+**7.** **Whilst we take every possible precaution to ensure the bot is exploit proof**, the development team won't be held responsible for any damages done to your server. Any exploits or bugs should be reported to the support team in the [support server](../static/support.html) immediately.
 
 **8.** Don't use our bot in malicious situations nor in servers that break [Discord's Terms of Service](https://discord.com/terms) or [Discord's Community Guidelines](https://discord.com/guidelines). **This will result in a blacklist**.
 
 --- 
 
-❓ **Have any questions? Join [our support server](https://discord.gg/nEesaZGqPc)**.
+❓ **Have any questions? Join [our support server](../static/support.html)**.

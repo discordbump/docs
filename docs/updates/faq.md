@@ -10,6 +10,19 @@ tags:
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
 import Button from '../../src/components/Button';
+import {
+  DiscordButton,
+  DiscordButtons,
+  DiscordInteraction,
+  DiscordMessage,
+  DiscordMessages,
+  DiscordMention,
+  DiscordEmbed,
+  DiscordEmbedField,
+  DiscordEmbedFields,
+} from "discord-message-components/packages/react";
+import "discord-message-components/packages/react/dist/style.css";
+import DiscordComponent, { defaultOptions } from "../../src/components/DiscordComponent";
 
 ## Why does the bot always act so strange/get weird uptime
 

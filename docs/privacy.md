@@ -40,4 +40,4 @@ This policy **may** get updated from time to time. With this being said, you are
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us in [our support server](https://discord.gg/nEesaZGqPc).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us in [our support server](../static/support.html).
