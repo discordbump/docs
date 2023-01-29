@@ -10,7 +10,7 @@ const config = {
   tagline:
     "Imagine a simple customizable multipurpose bot",
   url: "https://discordone.tk",
-  baseUrl: "/",
+  baseUrl: "/docs",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -26,17 +26,12 @@ const config = {
         docs: {
           editUrl: "https://github.com/SBLPBots/docs/tree/main",
           routeBasePath: "/",
-          showLastUpdateAuthor: false,
+          showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve("./src/scss/main.scss"),
         },
-      },
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
         gtag: {
           trackingID: 'G-6BYFTKQYJ2',
           anonymizeIP: true,
