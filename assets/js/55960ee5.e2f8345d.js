@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkguide_pycord_dev=self.webpackChunkguide_pycord_dev||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"Questions","permalink":"/docs/tags/questions","count":1},{"label":"Info","permalink":"/docs/tags/info","count":1},{"label":"Update","permalink":"/docs/tags/update","count":1}]')}}]);
