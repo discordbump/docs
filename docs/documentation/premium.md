@@ -9,6 +9,7 @@ import {
   DiscordInteraction,
   DiscordMessage,
   DiscordMessages,
+  DiscordMention,
   DiscordEmbed,
   DiscordEmbedField,
   DiscordEmbedFields,
