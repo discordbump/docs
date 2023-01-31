@@ -79,10 +79,6 @@ const config = {
               href: "https://discord.gg/nEesaZGqPc"
             },
             {
-              label: "Blog",
-              href: "/blog"
-            },
-            {
               label: "Terms of Service",
               to: "/tos"
             },
