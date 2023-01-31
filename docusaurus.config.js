@@ -101,7 +101,7 @@ const config = {
           },
           {
             lebel: "Invite",
-            to: "/invite"
+            href: "/invite"
           }
         ]
       }
