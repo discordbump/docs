@@ -57,14 +57,9 @@ const config = {
       hideOnScroll: true,
       items: [
         {
-          href: 'https://discordapp.com/api/oauth2/authorize?client_id=699101991372193813&permissions=388289&scope=bot',
+          href: '/blog',
           position: 'right',
-          label: 'Invite',
-        },
-        {
-          href: 'https://discord.gg/nEesaZGqPc',
-          position: 'right',
-          label: 'Support',
+          label: 'Blog',
         },
         {
           to: '/category/documentation',
