@@ -79,6 +79,10 @@ const config = {
               href: "https://discord.gg/nEesaZGqPc"
             },
             {
+              label: "Invite",
+              to: "/invite"
+            },
+            {
               label: "Terms of Service",
               to: "/tos"
             },
@@ -99,10 +103,6 @@ const config = {
             label: "Roadmap",
             to: "/roadmap"
           },
-          {
-            lebel: "Invite",
-            href: "/invite"
-          }
         ]
       }
       ]
