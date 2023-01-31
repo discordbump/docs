@@ -1,0 +1,37 @@
+---
+title: Verified!
+description: We are now verified!
+authors: jonfirexbox
+---
+
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+import Button from '../../src/components/Button';
+
+## WE ARE VERIFIED!
+
+Well everyone, i have to say, thank you so much, i have put so much into it, and now im happy to say that its verfied! Will the help of out other bot owner Proteus, we were able to get verified!
+
+## So now that it's verified what does that mean?
+
+With us being verified, nothing is going to change as we must follow the TOS, In the future if we are able to we may add Auto Bump but its unsure. 
+
+Since we are now verified, we are lucky enough that we can still use the prefix commands (thats what worried me the most) but I am working on getting slash commands working as fast as possible! I have no ETA but hopefully we can get it done soon!
+
+But to sum up everything, we are working on a lot of things for this bot, and that will be listed below:
+
+- Getting the bot to be 24/7
+- Fixing the problems with servers getting stuck in the database
+- Making it have slash commmands
+- So much more!
+
+## Some more things:
+
+Hello (so new things i wanted to add) but we are now chaning how our blog posts go, they will be actual blog posts!
+Also I will be starting to add in premium badges again, since it looks strange with none! But get ready for some good new updates!
+
+<h3>Need support?</h3>
+
+<div className="pyc-hero__actions">
+  <Button link="https://discordone.tk/support">Join our Support Server</Button>
+</div>
