@@ -10,9 +10,9 @@ export default function Home(): JSX.Element {
       title="Vertex Bump"
       description="Vertex Bump's website"
     >
-<Head>
+<head>
 <script async src="https://arc.io/widget.min.js#89jChPDg"></script>
-</Head>
+</head>
       <PYCHero
         title="Vertex Bump"
         subtitle="An amazing discord bump bot"
