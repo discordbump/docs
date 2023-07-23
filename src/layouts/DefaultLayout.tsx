@@ -16,11 +16,12 @@ const DefaultLayout: React.FC<DefaultLayoutProps> = ({ title, description, child
             <Head>
                 <title>{ title } - { site.tagline }</title>
                 <meta name="description" content={ description } />
-                <meta property="og:description" content="Corrupt Bump is a fast and simple to use discord bump bot that bumps/advertise your servers directly to different servers." />
-                <meta property="og:title" content="Corrupt Bump" />
+                <meta property="og:description" content="Vertex Bump is a fast and simple to use discord bump bot that bumps/advertise your servers directly to different servers." />
+                <meta property="og:title" content="Vertex Bump" />
                 <meta property="og:image" content="https://i.imgur.com/jtScH85.png"/>
                 <meta name="twitter:card" content="summary_large_image"/>
                 <meta name="theme-color" content="#fb6855" />
+                <script async src="https://arc.io/widget.min.js#89jChPDg"></script>
             </Head>
             <Layout>
                 { children }
