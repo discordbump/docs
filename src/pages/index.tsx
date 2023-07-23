@@ -18,6 +18,9 @@ export default function Home(): JSX.Element {
       <main className="content-wrap--home-page">
         Are you having trouble growing your server? Well do i have the bot for you! Come use Vertex Bump a fast and simple to use discord bump bot that bumps/advertise your servers directly to different servers. <a href="/intro">Learn more...</a>
       </main>
+      <head>
+      <script async src="https://arc.io/widget.min.js#89jChPDg"></script>
+      </head>
     </DefaultLayout>
   );
 }
