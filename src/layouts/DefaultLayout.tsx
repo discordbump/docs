@@ -21,7 +21,6 @@ const DefaultLayout: React.FC<DefaultLayoutProps> = ({ title, description, child
                 <meta property="og:image" content="https://i.imgur.com/jtScH85.png"/>
                 <meta name="twitter:card" content="summary_large_image"/>
                 <meta name="theme-color" content="#fb6855" />
-                <script async src="https://arc.io/widget.min.js#89jChPDg"></script>
             </Head>
             <Layout>
                 { children }
