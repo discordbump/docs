@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting
-description: Having trouble with Server Manager?
+description: Having trouble with Vertex Bump?
 ---
 
 ## ___ command is not working
