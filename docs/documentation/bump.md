@@ -32,8 +32,8 @@ Some premium commands may no longer work due to the new discord developer TOS up
 
 | Usage | Description | Premium |
 | ----------- | ----------- | ----------- |
-| <code><DiscordMention>Vertex Bump</DiscordMention> setdesc/description &lt;decription&gt</code> | Set your servers decription (Make sure to take out your server link) | False |
-| <code><DiscordMention>Vertex Bump</DiscordMention> setinvite &lt;channel&gt</code> | Sets your server invite that will be part of your servers bump | False |
-| <code><DiscordMention>Vertex Bump</DiscordMention> setchannel &lt;channel&gt</code> | Sets the channel where all discord bumps from other servers will go | False |
-| <code><DiscordMention>Vertex Bump</DiscordMention> setbanner &lt;banner-link&gt</code> | Sets your servers bump banner | <premium>True</premium> |
-| <code><DiscordMention>Vertex Bump</DiscordMention> setcolor &lt;HEX-code&gt</code> | Sets your servers bump embed color | <premium>True</premium> |
+| <code>vb!setdesc/description &lt;decription&gt</code> | Set your servers decription (Make sure to take out your server link) | False |
+| <code>vb!setinvite &lt;channel&gt</code> | Sets your server invite that will be part of your servers bump | False |
+| <code>vb!setchannel &lt;channel&gt</code> | Sets the channel where all discord bumps from other servers will go | False |
+| <code>vb!setbanner &lt;banner-link&gt</code> | Sets your servers bump banner | <premium>True</premium> |
+| <code>vb!setcolor &lt;HEX-code&gt</code> | Sets your servers bump embed color | <premium>True</premium> |
