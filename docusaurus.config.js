@@ -16,7 +16,7 @@ const config = {
   favicon: "img/favicon.ico",
   trailingSlash: false,
   deploymentBranch:"main",
-  organizationName: "SBLPBots", // Usually your GitHub org/user name.
+  organizationName: "discordbump", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
   plugins: ["docusaurus-plugin-sass"],
   presets: [ 
@@ -65,6 +65,11 @@ const config = {
           to: '/category/documentation',
           position: 'right',
           label: 'Docs',
+        },
+        {
+          to: '/invite',
+          position: 'right',
+          label: 'Invite',
         },
       ],
     },
