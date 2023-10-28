@@ -25,9 +25,9 @@
     "format": "remark docs/*.mdx docs/**/*.mdx docs/**/**/*.mdx docs/**/**/**/*.mdx --quiet -o"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.1.0",
-    "@docusaurus/plugin-client-redirects": "^2.1.0",
-    "@docusaurus/preset-classic": "^2.1.0",
+    "@docusaurus/core": "^2.4.3",
+    "@docusaurus/plugin-client-redirects": "^2.4.3",
+    "@docusaurus/preset-classic": "^2.4.3",
     "@easyops-cn/docusaurus-search-local": "0.27.1",
     "@matteusan/sentro": "0.1.23",
     "@mdx-js/react": "1.6.22",
