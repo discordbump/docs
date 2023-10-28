@@ -58,7 +58,7 @@ The only way you need to claim is if you win premium from a giveaway. Everything
 
 **2.** Send us a screenshot of you winning the giveaway
 
-**3.** Once our dev sees the message you will be granted the premium and can check your balance by doing <code><DiscordMention>@Vertex Bump#2014</DiscordMention> premium</code>
+**3.** Once our dev sees the message you will be granted the premium and can check your balance by doing <code>vb!premium</code>
 
 <h2>I didn't get my perks</h2>
 
