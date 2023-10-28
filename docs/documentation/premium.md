@@ -32,7 +32,7 @@ Some premium perks may no longer work due to the new discord developer TOS updat
 
 | Usage | Description | Premium |
 | ----------- | ----------- | ----------- |
-| <code><DiscordMention>Vertex Bump</DiscordMention> premium</code> | Shows you all servers you have premium for or tells you how to get it! | <premium>True</premium> |
-| <code><DiscordMention>Vertex Bump</DiscordMention> premium activate &lt;teir&gt</code> | Activates what premium you want (Check [here](../premium.md) for the list) | <premium>True</premium> |
-| <code><DiscordMention>Vertex Bump</DiscordMention> premium deavtivate &lt;serverID&gt</code> | Removes the premium from that server | <premium>True</premium> |
-| <code><DiscordMention>Vertex Bump</DiscordMention> premium &lt;teirs/list&gt</code> | Shows you al permiums and their perks | <premium>True</premium> |
+| <code>vb!premium</code> | Shows you all servers you have premium for or tells you how to get it! | <premium>True</premium> |
+| <code>vb!premium activate &lt;teir&gt</code> | Activates what premium you want (Check [here](../premium.md) for the list) | <premium>True</premium> |
+| <code>vb!premium deavtivate &lt;serverID&gt</code> | Removes the premium from that server | <premium>True</premium> |
+| <code>vb!premium &lt;teirs/list&gt</code> | Shows you al permiums and their perks | <premium>True</premium> |
