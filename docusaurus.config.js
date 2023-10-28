@@ -24,7 +24,7 @@ const config = {
       "classic",
       {
         docs: {
-          editUrl: "https://github.com/SBLPBots/docs/tree/main",
+          editUrl: "https://github.com/discordbump/docs/tree/main",
           routeBasePath: "/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
