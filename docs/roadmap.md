@@ -10,7 +10,7 @@ import Button from '../src/components/Button';
   </div>
   <li>Fixed all problems</li>
   <li>Added back Captchas</li>
-  <li>Switched to <code>@Vertex Bump#0281</code> prefix</li>
+  <li>Switched to <code>vb!</code> prefix</li>
   <li>Fixed up voting cooldown timer for bumps (20 min)</li>
 </div>
 <br/>
