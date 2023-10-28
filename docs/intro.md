@@ -27,7 +27,7 @@ We believe most servers rely on a bump bots to grow! Vertex Bump is one of the b
 
 <DiscordComponent>
     <div slot="message">
-      <DiscordMessage profile="jonfirexbox" command> <DiscordMention>Vertex Bump</DiscordMention> bump</DiscordMessage>
+      <DiscordMessage profile="jonfirexbox" command> vb!bump</DiscordMessage>
     </div>
   <DiscordMessage profile="Vertexbump">
     <DiscordEmbed authorName="✅ Success" borderColor="#7FD858">
