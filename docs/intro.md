@@ -64,7 +64,7 @@ We believe most servers rely on a bump bots to grow! Vertex Bump is one of the b
 <div className="user_box">
   <img className="profile-picture-avatar" src="../img/jon.png"/>
   <div className="name">
-    Jonfirexbox#8859
+    Jonfirexbox
   </div>
   <div className="comment">
   Bot Creator/Main Developer
@@ -74,7 +74,7 @@ We believe most servers rely on a bump bots to grow! Vertex Bump is one of the b
 <div className="user_box">
   <img className="profile-picture-avatar" src="../img/looat.png"/>
   <div className="name">
-    Looat#4075
+    Looat
   </div>
   <div className="comment">
   Orignal Bot Code owner/Discord.one founder
@@ -84,7 +84,7 @@ We believe most servers rely on a bump bots to grow! Vertex Bump is one of the b
 <div className="user_box">
   <img className="profile-picture-avatar" src="../img/proteus.png"/>
   <div className="name">
-    ! Proteus#5386
+    Proteus
   </div>
   <div className="comment">
   Bot Creator
