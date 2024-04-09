@@ -71,6 +71,11 @@ const config = {
           position: 'right',
           label: 'Invite',
         },
+        {
+          to: '/status',
+          position: 'right',
+          label: 'Status',
+        },
       ],
     },
     footer: {
@@ -86,6 +91,10 @@ const config = {
             {
               label: "Invite",
               to: "/invite"
+            },
+            {
+              label: "Status Page",
+              href: "https://status.discordone.tk"
             },
             {
               label: "Terms of Service",
