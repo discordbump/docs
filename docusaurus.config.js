@@ -67,12 +67,12 @@ const config = {
           label: 'Docs',
         },
         {
-          to: '/invite',
+          href: '/invite',
           position: 'right',
           label: 'Invite',
         },
         {
-          to: '/status',
+          href: '/status',
           position: 'right',
           label: 'Status',
         },
