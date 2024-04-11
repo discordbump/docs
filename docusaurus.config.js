@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   trailingSlash: false,
-  deploymentBranch:"main",
+  deploymentBranch: "main",
   organizationName: "discordbump", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
   plugins: ["docusaurus-plugin-sass"],
