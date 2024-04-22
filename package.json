@@ -29,7 +29,7 @@
     "@docusaurus/plugin-client-redirects": "^3.2.1",
     "@docusaurus/preset-classic": "^3.2.1",
     "@easyops-cn/docusaurus-search-local": "0.40.1",
-    "@matteusan/sentro": "0.1.23",
+    "@matteusan/sentro": "1.0.0",
     "@mdx-js/react": "1.6.22",
     "@types/react": "17.0.2",
     "clsx": "2.1.0",
