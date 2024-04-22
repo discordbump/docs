@@ -44,7 +44,7 @@
     "yarn": "^1.22.22"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.1.0",
+    "@docusaurus/module-type-aliases": "^3.2.1",
     "@tsconfig/docusaurus": "1.0.6",
     "micromark-extension-mdx-md": "^2.0.0",
     "remark-cli": "^11.0.0",
